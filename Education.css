@@ -1,0 +1,27 @@
+
+body
+{
+   background-image: url("Edu2.jpg");
+  
+
+}
+#container
+{
+    align-self: center;
+    margin-left: 400px;
+    margin-top: 70px;
+    height: 400px;
+    width: 600px;
+    background-color:chocolate;
+    border-radius: 10%;
+    font-size: 20px;
+}
+#nit
+{
+   padding-top: 70px;
+padding-left: 30px;
+}
+#sadhana
+{
+    padding-left: 30px;
+}
